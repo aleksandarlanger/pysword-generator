@@ -8,6 +8,10 @@ Basic password generator made in Python.
 
 https://replit.com/@aleksandarlange/randompyswordgenerator?v=1
 
+##########################################################
+
 No error handling, so please use the provided parameters. 
 
 ##########################################################
+
+
